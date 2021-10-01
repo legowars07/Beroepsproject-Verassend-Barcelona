@@ -1,0 +1,26 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.startcontainer
+{
+    display: flex;
+    justify-content: center;
+}
+
+.containerA, .containerB
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: red;
+    margin-top: 150px;
+    width: 500px;
+    height: 650px;
+}
+
+#left
+{
+    margin-left: 100px;
+}
