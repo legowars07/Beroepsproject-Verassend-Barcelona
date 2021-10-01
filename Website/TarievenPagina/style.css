@@ -9,6 +9,7 @@ body {
     max-width: 600px;
     margin: 50px auto;
     padding: 25px;
+    background: #FCD739;
 }
 
 .mytabs input[type="radio"] {
@@ -17,16 +18,18 @@ body {
 
 .mytabs label {
     padding: 25px;
-    background: #e2e2e2;
     font-weight: bold;
+    color: #662C25;
+    background: #FCD739;
 }
 
 .mytabs .tab {
     width: 100%;
     padding: 20px;
-    background: #fff;
+    background: #FCD739;
     order: 1;
     display: none;
+    font-family: cursive;
 }
 
 .mytabs .tab h2 {
